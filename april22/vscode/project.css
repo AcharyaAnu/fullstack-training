@@ -1,0 +1,55 @@
+body{
+    background:pink;
+    text-align: center;
+    border-radius: 4rem;
+    
+} 
+.container1 {
+    background-color:black;
+    width : 90%;
+    height: 25px;
+    margin:0 auto;
+    
+
+
+}
+
+  
+#para{
+    color: white;
+    align-items: center;
+
+}   
+
+
+#body{
+    background: lightgray;
+    margin: auto;
+}
+
+#img1{
+    width:auto;
+}
+
+#mainNav .nav-link:hover{
+    color: red;
+}
+
+.blurb h6{
+    color:black;
+    font-weight:70px ;
+    font: size 2rem; ;
+}
+
+.blurb p{
+    color:red;
+    font-weight: 60px;
+    font-size: .9rem;
+  
+
+}
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
