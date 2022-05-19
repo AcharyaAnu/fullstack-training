@@ -1,0 +1,12 @@
+<%- include('partial/head') %> 
+<body>
+    <%-include('partial/navbar')%>
+    <h1>random number <%= rand%></h1>
+    <% if (rand % 2===0) {%> 
+    <h2>That is even number</h2>
+
+    <% } else{%> 
+     <h2>that is odd number</h2>  
+     <% } %>  
+</body>
+</html>
